@@ -6,70 +6,23 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://video.smotrim-filmix.xyz/</loc>
     <video:video>
-      <video:title>Killhaus (2026) дивитися онлайн</video:title>
-      <video:description>Фільм Killhaus 2026 дивитися онлайн у хорошій якості</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
-    </video:video>
-  </url>
+      <video:title>Killhaus 2026</video:title>
+      <video:description>Full movie online</video:description>
 
-  <url>
-    <loc>https://video.smotrim-filmix.xyz/divitisya-killhaus-2026-divitisya-onlain.html</loc>
-    <video:video>
-      <video:title>Killhaus (2026) дивитися онлайн</video:title>
-      <video:description>Фільм Killhaus 2026 дивитися онлайн</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/divitisya-killhaus-2026-divitisya-onlain.html</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
-    </video:video>
-  </url>
+      <!-- СТРАНИЦА С ПЛЕЕРОМ -->
+      <video:player_loc>
+        https://video.smotrim-filmix.xyz/
+      </video:player_loc>
 
-  <url>
-    <loc>https://video.smotrim-filmix.xyz/film-killhaus-2026-divitisya-onlain.html</loc>
-    <video:video>
-      <video:title>Killhaus (2026) дивитися онлайн</video:title>
-      <video:description>Фільм Killhaus 2026 онлайн HD</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/film-killhaus-2026-divitisya-onlain.html</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
-    </video:video>
-  </url>
+      <!-- ПРЯМОЙ MP4 ФАЙЛ (ОБЯЗАТЕЛЬНО) -->
+      <video:content_loc>
+        https://video.smotrim-filmix.xyz/video/killhaus.mp4
+      </video:content_loc>
 
-  <url>
-    <loc>https://video.smotrim-filmix.xyz/hd-kilhaus-2026-divitisya-onlain.html</loc>
-    <video:video>
-      <video:title>Killhaus (2026) HD онлайн</video:title>
-      <video:description>Дивитися Killhaus 2026 HD</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/hd-kilhaus-2026-divitisya-onlain.html</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
-    </video:video>
-  </url>
+      <video:thumbnail_loc>
+        https://video.smotrim-filmix.xyz/preview.jpg
+      </video:thumbnail_loc>
 
-  <url>
-    <loc>https://video.smotrim-filmix.xyz/killhaus-film-2026-divitisya-onlain-fullhd.html</loc>
-    <video:video>
-      <video:title>Killhaus (2026) FullHD онлайн</video:title>
-      <video:description>Фільм Killhaus 2026 FullHD</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/killhaus-film-2026-divitisya-onlain-fullhd.html</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://video.smotrim-filmix.xyz/novinka-killhaus-2026-divitisy-onlain.html</loc>
-    <video:video>
-      <video:title>Killhaus (2026) новинка онлайн</video:title>
-      <video:description>Новинка Killhaus 2026 дивитися</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/novinka-killhaus-2026-divitisy-onlain.html</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://video.smotrim-filmix.xyz/premera-killhaus-2026-divitisya-onlain.html</loc>
-    <video:video>
-      <video:title>Killhaus (2026) прем'єра онлайн</video:title>
-      <video:description>Прем'єра Killhaus 2026 дивитися онлайн</video:description>
-      <video:content_loc>https://video.smotrim-filmix.xyz/premera-killhaus-2026-divitisya-onlain.html</video:content_loc>
-      <video:thumbnail_loc>https://video.smotrim-filmix.xyz/preview.jpg</video:thumbnail_loc>
     </video:video>
   </url>
 
