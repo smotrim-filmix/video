@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://smotrim-filmix.xyz/sitemap.xml/index.html</loc>
+    <loc>https://smotrim-filmix.xyz/</loc>
   </url>
+
   <url>
-    <loc>https://video.smotrim-filmix.xyz/sitemap.xml/index.html</loc>
+    <loc>https://video.smotrim-filmix.xyz/</loc>
   </url>
+
 </urlset>
