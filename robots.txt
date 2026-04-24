@@ -3,4 +3,4 @@ Allow: /
 
 Sitemap: https://smotrim-filmix.xyz/sitemap.xml
 Sitemap: https://video.smotrim-filmix.xyz/sitemap1.xml
-Sitemap: https://video.smotrim-filmix.xyz/video-sitemap1.xml
+
